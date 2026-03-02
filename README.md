@@ -1,6 +1,8 @@
 # Rear_ECU_H723
 This project implements a Rear Electronic Control Unit (ECU) firmware using the STM32H723 microcontroller with FDCAN (Flexible Data-Rate CAN) communication.
+
 Key Features:
+
  FDCAN-based communication using STM32H7
  
  Priority-based message handling (Safety-first architecture)
